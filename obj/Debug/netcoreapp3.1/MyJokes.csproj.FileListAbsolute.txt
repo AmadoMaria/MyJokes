@@ -1,0 +1,4 @@
+C:\Users\maria\Documents\SENAI\4º semestre\LP III\MyJokes\bin\Debug\netcoreapp3.1\MyJokes.exe
+C:\Users\maria\Documents\SENAI\4º semestre\LP III\MyJokes\obj\Debug\netcoreapp3.1\MyJokes.csprojAssemblyReference.cache
+C:\Users\maria\Documents\SENAI\4º semestre\LP III\MyJokes\obj\Debug\netcoreapp3.1\MyJokes.AssemblyInfoInputs.cache
+C:\Users\maria\Documents\SENAI\4º semestre\LP III\MyJokes\obj\Debug\netcoreapp3.1\MyJokes.AssemblyInfo.cs
