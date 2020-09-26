@@ -55,8 +55,8 @@ namespace MyJokes
             else
             {
                 Console.WriteLine($"Category: {joke.category}");
-                Console.WriteLine($"Setup: {joke.category}");
-                Console.WriteLine($"Delivery: {joke.category}");
+                Console.WriteLine($"Setup: {joke.setup}");
+                Console.WriteLine($"Delivery: {joke.delivery}");
             }
       
         }
