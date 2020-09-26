@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maria\\Documents\\SENAI\\4º semestre\\LP III\\MyJokes\\MyJokes\\MyJokes.csproj": {}
+    "C:\\Users\\maria\\Documents\\SENAI\\4º semestre\\LP III\\MyJokes\\MyJokes\\MyJokes\\MyJokes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maria\\Documents\\SENAI\\4º semestre\\LP III\\MyJokes\\MyJokes\\MyJokes.csproj": {
+    "C:\\Users\\maria\\Documents\\SENAI\\4º semestre\\LP III\\MyJokes\\MyJokes\\MyJokes\\MyJokes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maria\\Documents\\SENAI\\4º semestre\\LP III\\MyJokes\\MyJokes\\MyJokes.csproj",
+        "projectUniqueName": "C:\\Users\\maria\\Documents\\SENAI\\4º semestre\\LP III\\MyJokes\\MyJokes\\MyJokes\\MyJokes.csproj",
         "projectName": "MyJokes",
-        "projectPath": "C:\\Users\\maria\\Documents\\SENAI\\4º semestre\\LP III\\MyJokes\\MyJokes\\MyJokes.csproj",
+        "projectPath": "C:\\Users\\maria\\Documents\\SENAI\\4º semestre\\LP III\\MyJokes\\MyJokes\\MyJokes\\MyJokes.csproj",
         "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maria\\Documents\\SENAI\\4º semestre\\LP III\\MyJokes\\MyJokes\\obj\\",
+        "outputPath": "C:\\Users\\maria\\Documents\\SENAI\\4º semestre\\LP III\\MyJokes\\MyJokes\\MyJokes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config",

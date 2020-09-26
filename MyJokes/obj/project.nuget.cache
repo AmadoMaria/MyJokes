@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KukwLZ07A/0lCHTLgvfmdGnrybDKcrpdd8KRu1kdciAlhFK59zctcYFN3mlf7yVLD6Pn9Ly2lWQQUiOtTJmuqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maria\\Documents\\SENAI\\4º semestre\\LP III\\MyJokes\\MyJokes\\MyJokes\\MyJokes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maria\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
