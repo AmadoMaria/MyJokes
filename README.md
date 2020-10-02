@@ -10,7 +10,7 @@
 
 ## 🧐 Sobre <a name = "sobre"></a>
 - Um projeto da disciplina de Linguagem de Programação III, ministrada pelo professor [@marcoslapa](https://github.com/marcoslapa), com o objetivo de praticar o consumo de Web APIs
-- O Sistema conta com uma interface em console que permite a exibição de uma piada, aleatória, da JokeAPI, de acordo com a categoria desejada.
+- O Sistema conta com uma interface em console que permite a exibição de uma piada, aleatória, da [JokeAPI](https://sv443.net/jokeapi/v2/), de acordo com a categoria desejada.
 
 ## ⛏️ Tecnologias Usadas <a name = "tecnologias-usadas"></a>
   - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
